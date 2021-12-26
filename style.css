@@ -1,0 +1,22 @@
+.gambar{
+
+}
+.logo{
+width: 1px;
+height: 1px;
+}
+.form1{
+
+}
+.form2{
+
+}
+.footer{
+    background-color: black;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;    
+}
+.nav{
+    position: fixed;
+    background-color: blue;
+    }
